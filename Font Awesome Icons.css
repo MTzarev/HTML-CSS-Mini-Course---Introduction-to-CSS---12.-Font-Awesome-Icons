@@ -1,0 +1,46 @@
+.nav-container{
+    background-color: rgb(245,245,245);
+max-width: 250px;
+border: 1px solid darkgrey;
+
+}
+
+.nav-container ul{
+    list-style-type: none;
+}
+.nav-container .nav-link{
+    color: brown;
+    text-decoration: none;
+}
+.nav-container .nav-link i{
+    display: inline-block;
+    margin-right: 10px;
+    padding: 7px;
+}
+.btn {
+    padding: 6px 12px;
+    color: white;
+    border-radius: 2px;
+    border-width:  2px;
+    border-style: solid;
+    
+
+}
+.btn i{
+    color: white;
+}
+.btn-checkout{
+    background-color: green;
+    border-color: darkgreen;
+    
+}
+.btn-info{
+    background-color: blue;
+    
+    border-color:darkblue
+}
+.btn-delete{
+    background-color: brown;
+   
+    border-color:darkred
+}
